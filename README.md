@@ -1,5 +1,5 @@
 <h1 align="center" style="color: black">SQL запросы марафон😢😎🥶🥶🥶🥶💀💀💀🫣</h1>
-<h3>(1) Задание: Все бегуны, которые зарегистрированы на текущий марафон отображаются в таблице, как: имя, фамилия - BibNumber (CountryCode)</h3>
+<h3>(1) Задание: Все бегуны, которые зарегистрированы на текущий марафон отображаются в таблице, как: имя, фамилия - BibNumber😎 (CountryCode)</h3>
 
 ```sql
 select distinct u."firstname", u."lastname", rnr."countrycode"
